@@ -20,10 +20,10 @@ function sayHiToGrandma(string) {
   if (upperstring === string) {
     return "YES INDEED!"
   }
-  if (lowerstring === string) {
+  else if (lowerstring === string) {
     return "I can't hear you!"
   }
-  if (string === "I love you, Grandma.") {
+  else if (string === "I love you, Grandma.") {
     return "I love you, too."
   }
   }
