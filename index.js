@@ -9,3 +9,21 @@ function whisper(string) {
 function logShout(string) {
   console.log(string.toUpperCase())
 }
+
+function logWhisper(string) {
+  console.log(string.toLowerCase())
+}
+
+function sayHiToGrandma(string) {
+  var upperstring = string.toUpperCase()
+  var lowerstring = string.toLowerCase()
+  if {uppersting === string
+    return "YES INDEED!"
+  }
+  if {lowerstring === string
+    return "I can't hear you!"
+  }
+  if {string === "I love you, Grandma."
+    return "I love you, too."}
+    
+}
